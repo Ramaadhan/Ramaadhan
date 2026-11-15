@@ -47,5 +47,5 @@ pemetaan data spasial, sampai pengamanan informasi dengan kriptografi.
 
 ## 📫 Kontak
 - 📧 Email: gilsram45@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/surya-gilang-081aa144b
+- 📸 Instagram: [@surrllg](https://www.instagram.com/surrllg/)
 - 📍 Bandung, Jawa Barat, Indonesia
