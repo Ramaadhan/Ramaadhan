@@ -42,9 +42,8 @@ pemetaan data spasial, sampai pengamanan informasi dengan kriptografi.
 ## 🚀 Proyek Unggulan
 | Proyek | Deskripsi | Teknologi |
 |--------|-----------|-----------|
-| [WebView Prototyping](https://github.com/username/nama-repo-webview) | Aplikasi WebView dibangun dalam 2 siklus Prototyping | MIT App Inventor, React Native |
-| [Tic Tac Toe](https://github.com/username/nama-repo-tictactoe) | Game Tic Tac Toe dua pemain | React Native |
-| [CRUD To Do List](https://github.com/username/nama-repo-todo) | Aplikasi daftar tugas dengan fitur CRUD | React Native |
+| [Tic Tac Toe]((https://github.com/Ramaadhan/PemrogramanMobileTictacToeApp)) | Game Tic Tac Toe dua pemain | React Native |
+| [CRUD To Do List]((https://github.com/Ramaadhan/MobileTodosApp/tree/main/TodosApp)) | Aplikasi daftar tugas dengan fitur CRUD | React Native |
 
 ## 📫 Kontak
 - 📧 Email: gilsram45@gmail.com
