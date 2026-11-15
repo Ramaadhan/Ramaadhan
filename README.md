@@ -1,4 +1,4 @@
-<h1 align="center">Hai, saya [Nama Lengkap] 👋</h1>
+<h1 align="center">Hello, I'm Surya Ramadhan 👋</h1>
 
 <p align="center">
   Mahasiswa Teknik Informatika, Universitas Langlangbuana<br>
